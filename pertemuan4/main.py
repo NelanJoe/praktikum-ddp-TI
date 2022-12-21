@@ -14,7 +14,7 @@ def getDataAnimals(*animals):
 
 getDataAnimals("Kucing", "Ayam", "Gorilla", "Guguk")
 
-# Operator Number pakai rest Param
+# Operator Number pakai rest Parameter
 def addNumber(*numbers):
     result = 0
     for number in numbers:
